@@ -29,4 +29,7 @@ Here are some ideas to get you started:
 
 # 
 ### 👩🏻‍💻 [Thinking, organizing, blog ](https://nabi1993.tistory.com/)
+
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kho5724)](https://solved.ac/kho5724)
    
