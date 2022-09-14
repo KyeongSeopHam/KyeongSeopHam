@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kho5724})](https://solved.ac/{kho5724})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kho5724)](https://solved.ac/kho5724)
    
